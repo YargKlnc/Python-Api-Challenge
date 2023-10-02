@@ -53,6 +53,7 @@ Created following plots and after each pair of plots what the linear regression 
 
 •	Southern Hemisphere: Wind Speed vs. Latitude
 
+
 ***Part 2: VacationPy
 
 Weather data was used to plan future vacations using Jupyter notebooks, the geoViews Python library, and the Geoapify API.
