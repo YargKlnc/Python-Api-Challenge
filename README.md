@@ -1,5 +1,7 @@
 # python-api-challenge
+
 This is Python API Challenge by YK 
+
 ***"What is the weather like as we approach the equator?"
 
 This activity is broken down into two deliverables, WeatherPy and VacationPy.
