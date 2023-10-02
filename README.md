@@ -4,6 +4,7 @@ This is Python API Challenge by YK
 
 This activity is broken down into two deliverables, WeatherPy and VacationPy.
 
+
 ***Part 1: WeatherPy
 
 In this deliverable, a Python script to visualize the weather of randomly selected 576 cities of varying distances from the equator was created. 
@@ -19,8 +20,11 @@ Completed Requirement 1: Created Plots to Showcase the Relationship Between Weat
 To fulfill the first requirement the OpenWeatherMap API to retrieve weather data from the cities list generated in the starter code was used. Also, a series of scatter plots to showcase the following relationships:
 
 •	Latitude vs. Temperature
+
 •	Latitude vs. Humidity
+
 •	Latitude vs. Cloudiness
+
 •	Latitude vs. Wind Speed
 
  was used and visuals can be found in Output folder in this GitHub repository.
@@ -34,12 +38,19 @@ Next, a series of scatter plots was created. Linear regression line was added as
 Created following plots and after each pair of plots what the linear regression is modeling was explained and any relationship was described.
 
 •	Northern Hemisphere: Temperature vs. Latitude
+
 •	Southern Hemisphere: Temperature vs. Latitude
+
 •	Northern Hemisphere: Humidity vs. Latitude
+
 •	Southern Hemisphere: Humidity vs. Latitude
+
 •	Northern Hemisphere: Cloudiness vs. Latitude
+
 •	Southern Hemisphere: Cloudiness vs. Latitude
+
 •	Northern Hemisphere: Wind Speed vs. Latitude
+
 •	Southern Hemisphere: Wind Speed vs. Latitude
 
 ***Part 2: VacationPy
